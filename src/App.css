@@ -1,0 +1,38 @@
+body{
+  background-image: url(assets/fundo.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+
+.container{
+  background-color: rgb(252, 231, 141);
+  border-radius: 30px;
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+  border: 0%;
+  color: rgb(170, 111, 1);
+  font-family:cursive;
+  font-size: 20px;
+
+}
+
+input{
+  width: 250px;
+  text-align: center;
+  height: 35px;
+  border-radius: 20px;
+  font-size: medium;
+  border-color: rgb(255, 179, 17);
+}
+
+button{
+  width: 150px;
+  height: 40px;
+  border-radius: 20px;
+  background-color: rgb(250, 229, 160);
+}
+button:hover{
+  background-color: rgb(250, 188, 94)
+}
